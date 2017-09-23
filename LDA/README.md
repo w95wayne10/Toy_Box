@@ -9,7 +9,7 @@
 ```matlab
   [NewComp, Coef, val] = LDA(K, y);  
 ```
-## 繪圖
+## Plot
 + 新產生維度(多一維可忽略)
 ```matlab
     scatter(NewComp(:,1),NewComp(:,2),y+15,y+2);  
