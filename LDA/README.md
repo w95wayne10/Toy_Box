@@ -29,3 +29,6 @@
     plot(1:length(Coef),sort(Coef(:,1)));  
 ```
 <img src="https://github.com/w95wayne10/Toy_Box/blob/master/LDA/picture/checkerOrgColCoef.png" height="300" />
+
+## Reference
+[CS434a/541a: Pattern Recognition Lecture8](http://www.csd.uwo.ca/~olga/Courses/CS434a_541a/Lecture8.pdf)
