@@ -12,8 +12,7 @@ function [NewComp, Coef, Eigval] = LDA(X, Y)
 % output:
 %     NewComp: New representation of data.
 %     Coef: Linear combination coefficients. (X*Coef=NewComp)
-%     Eigval: Maybe someday I will know what this's meaning. So I just put
-%             it out for no reason. (Please excuse my poor LA):P
+%     Eigval: degree of explaintion to data.
 
 [n, ~] = size(X); % No need to know the number of column because reduced 
                   % dimensions depend on number of class. 
