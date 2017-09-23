@@ -1,5 +1,5 @@
 # Toy_Box
-Some idea creating in AM/CS/DS class
+Some idea creating in class or lab
 
 ## 2016/11/08_CS_NN
 dataset:  
@@ -7,3 +7,5 @@ dataset:
 method:  
 1. multiclass discriminant func.  
 2. multiclass_perceptrons func.  
+
+## 2017/09/23_Lab_LDA
